@@ -36,10 +36,13 @@ End with an example of getting some data out of the system or using it for a lit
 
 A step by step instructions of how to run the script/pipeline
 
+#### Quick example
+
+A simple example to show how the script/tool works
+
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
-
 
 ## Authors
 
